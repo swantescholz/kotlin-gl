@@ -1,0 +1,2 @@
+number.of.unlocked.levels=1
+solved.rooms.of.level1=0

@@ -1,0 +1,17 @@
+package util.string
+
+infix operator fun String.plus(o: Byte) = "$this$o"
+infix operator fun String.plus(o: Short) = "$this$o"
+infix operator fun String.plus(o: Int) = "$this$o"
+infix operator fun String.plus(o: Long) = "$this$o"
+infix operator fun String.plus(o: Boolean) = "$this$o"
+infix operator fun String.plus(o: Float) = "$this$o"
+infix operator fun String.plus(o: Double) = "$this$o"
+infix operator fun String.plus(o: String) = "$this$o"
+infix operator fun Byte.plus(o: String) = "$this$o"
+infix operator fun Short.plus(o: String) = "$this$o"
+infix operator fun Int.plus(o: String) = "$this$o"
+infix operator fun Long.plus(o: String) = "$this$o"
+infix operator fun Boolean.plus(o: String) = "$this$o"
+infix operator fun Float.plus(o: String) = "$this$o"
+infix operator fun Double.plus(o: String) = "$this$o"

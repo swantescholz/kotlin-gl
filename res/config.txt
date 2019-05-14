@@ -1,0 +1,13 @@
+# Feel free to change these values
+windowWidth=800
+windowHeight=600
+# Do not change anything from this point on!
+windowTitle="test foo bar title"
+console.lines.max=4
+number.of.levels=2
+dragon.spew.flame.steps=5
+dragon.flame.lifespan=4
+dragon.flame.minus.vitality=4
+snake.minus.vitality=4
+coin.plus.finance=1
+heart.plus.vitality=1
